@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @machamacha17
 - 👀 I’m interested in FPGA world
-- 🌱 I’m currently learning Xilinx chips
-- 💞️ I’m looking to collaborate on new exciting FPGA based projects with a professional expertise!
+- 🌱 I’m currently working with Xilinx's chips
+- 💞️ I’m searching for an exciting FPGA based projects to accomplish!
 
 <!---
 machamacha17/machamacha17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
